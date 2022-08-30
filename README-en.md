@@ -9,4 +9,7 @@ Basics of Java Programming
 
 ### 二）Object-oriented Programming（OOP）
 
-- [Brief Introduction to OOP](./02-面向对象编程/01-面向对象编程简介.md)
+- [OOP & Procudural Programming](./02-面向对象编程/01-面向对象编程与面向过程编程.md)
+- [Brief Introduction to OOP](./02-面向对象编程/02-面向对象编程简介.md)
+- **Encapsulation**
+  - [Definition Of Class](./02-面向对象编程/01-封装/01-类.md#概念)、[Members Of Class](./02-面向对象编程/01-封装/01-类.md#二类的组成)、[Fields](./02-面向对象编程/01-封装/01-类.md#1字段-或-域-field)、[Constructors](./02-面向对象编程/01-封装/01-类.md#2构造器构造方法constructors)
